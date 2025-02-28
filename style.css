@@ -1,0 +1,29 @@
+<style>
+    /* Project Section Layout */
+    #projects {
+        background-color: #25273c; /* Dark background */
+        padding: 50px 0;
+        text-align: center;
+    }
+
+    .project-item {
+        background: #333646;
+        padding: 15px;
+        margin: 10px auto;
+        border-radius: 2px;
+        max-width: 400px; /* Set max width */
+        text-align: left;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    .project-item h2 {
+        font-size: 1.8rem;
+        color: #9461a3;
+    }
+
+    .project-item p {
+        font-size: 1rem;
+        line-height: 1.5;
+        color: #e7e7eb;
+    }
+</style>
